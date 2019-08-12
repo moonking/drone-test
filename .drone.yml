@@ -4,5 +4,5 @@ steps:
 - name: info
   image: busybox
   commands:
-  - echo "appdemo"
+  - echo "appde1111mo"
 
